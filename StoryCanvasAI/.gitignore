@@ -28,7 +28,7 @@ env/
 backend/generated/
 
 # Model files (if downloaded)
-models/
+
 checkpoints/
 *.ckpt
 *.pth
